@@ -6,5 +6,6 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Anjali1515/SQL/tree/master/0175-combine-two-tables) |
 | [0620-not-boring-movies](https://github.com/Anjali1515/SQL/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
